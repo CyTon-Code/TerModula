@@ -1,3 +1,6 @@
+class TerModula:
+  def __init__(self):
+  
 def Module(AddressModule, ARGS):
   pass  # 
 
