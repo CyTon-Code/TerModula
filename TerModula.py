@@ -1,11 +1,12 @@
 class TerModula:
   def __init__(self):
-  
-def Module(AddressModule, ARGS):
-  pass  # 
+    pass
+
 class ErrorMain(Exception):
     pass
 
+def Module(AddressModule, ARGS):
+  pass  # 
 
 def Terminal(Cmd, KeyList, FlagList, List):
   pass  # Модуль принимает от этой функции (KeyList, FlagList, List).
@@ -23,6 +24,8 @@ def TermArgToPsevdo_Arg():
 
 def TermListToPsevdo_Arg():
   pass  # Функция для обработки вводимого текста с консоли в приличные аргументы терминала.
+
+
 
 def cut_to_import(path):
     print(path)
